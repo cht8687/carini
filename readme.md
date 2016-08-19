@@ -1,4 +1,4 @@
-# carini [![Build Status](https://travis-ci.org/cht8687/carini.svg?branch=master)](https://travis-ci.org/cht8687/string-remove)
+# carini [![Build Status](https://travis-ci.org/cht8687/carini.svg?branch=master)](https://travis-ci.org/cht8687/carini)
 
 > Yeah thats what i do... clean the garbage
 
